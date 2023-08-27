@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "absl", "absl.vcxproj", "{779CC295-A687-45AB-B643-4B23241F5309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779CC295-A687-45AB-B643-4B23241F5309}.Debug|x64.ActiveCfg = Debug|x64
+		{779CC295-A687-45AB-B643-4B23241F5309}.Debug|x64.Build.0 = Debug|x64
+		{779CC295-A687-45AB-B643-4B23241F5309}.Debug|x86.ActiveCfg = Debug|Win32
+		{779CC295-A687-45AB-B643-4B23241F5309}.Debug|x86.Build.0 = Debug|Win32
+		{779CC295-A687-45AB-B643-4B23241F5309}.Release|x64.ActiveCfg = Release|x64
+		{779CC295-A687-45AB-B643-4B23241F5309}.Release|x64.Build.0 = Release|x64
+		{779CC295-A687-45AB-B643-4B23241F5309}.Release|x86.ActiveCfg = Release|Win32
+		{779CC295-A687-45AB-B643-4B23241F5309}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0145D4CD-BAAE-45FA-B161-A8C537F62948}
+	EndGlobalSection
+EndGlobal
